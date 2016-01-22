@@ -1,11 +1,12 @@
-# QCGA_Alloys
-Code to analyse Thermodynamics of allows through the Generalized Quasi-Chemical Approximation (GQCA).
+# QCGA Alloy Analysis
+A Python tool to analyse the thermodynamics of alloys through the Generalized Quasi-Chemical Approximation (GQCA)
 
 # Description
-The repository contains python script to perform analysis of thermodynamics of an alloys. The analysis runs on the energy of different structures that describe the configurational space of an alloys restricted to a crystallographic sueprcell.
-As input the scripts need organized data ordered as followed:
-1) number of the structure
-2) number of specie substituted with respect to pure alloys
-3) Degeneracy of the structure
-4) Energy of the super cell
-5)energy of the single cell.
+The repository contains a Python script to perform analysis of thermodynamics of a solid solution as a statistical ensemble of independent structures. The analysis runs on the energy of the structures that describe the configurational space restricted to a specific crystallographic supercell.
+
+*As input, the scripts requires:*
+1) number of structures
+2) number of species substituted with respect to pure end members
+3) degeneracy of each structure
+4) energy of the supercell configuration
+5) energy of the single cell
