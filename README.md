@@ -16,6 +16,6 @@ The GQCA approach to calcuate the configurational free energy of alloys was firs
 
 The code gqca2.py reads the file energies.dat and returns the enthalpy of mixing, configurational entropy of mixing and the Helmholtz free energy as functions of the alloy composition and temperature.
 
-The script phase_diagram.py calls gqca2.py and calculates the binodal and spinodal points of the system, for a given temperature. The code is made to automatically varies the temperature and collects the phase diagram points and writes them in the file phase_diagram.dat. If it doesn't work, it would be interesting to plot the free energy to understand the its variation.
+The script phase_diagram.py calls gqca2.py and calculates the binodal and spinodal points of the system, for a given temperature. The code is made to automatically change the temperature, collect the phase diagram points and write them in the file phase_diagram.dat. If it doesn't work, it would be interesting to plot the free energy to understand its variation.
 
 The script plot_phase_diagram.py just reads the file phase_diagram.py and draws the phase diagram in a pdf file. 
