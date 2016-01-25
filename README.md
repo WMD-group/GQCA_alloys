@@ -1,4 +1,4 @@
-# QCGA Alloy Analysis
+# GQCA Alloy Analysis
 A Python tool to analyse the thermodynamics of alloys through the Generalized Quasi-Chemical Approximation (GQCA)
 
 # Description
