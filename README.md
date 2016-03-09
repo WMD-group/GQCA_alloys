@@ -22,4 +22,4 @@ The script `plot_phase_diagram.py` just reads the file phase_diagram.py and draw
 
 # Publications
 
-- [Thermodynamic Origin of Photoinstability in the CH<sub>3</sub>NH<sub>3</sub>Pb(I<sub>1–x</sub>Br<sub>x</sub>)<sub>3</sub> Hybrid Halide Perovskite Alloy](http://pubsdc3.acs.org/doi/abs/10.1021/acs.jpclett.6b00226), Journal of Physical Chemistry Letters (**2016**)
+[Thermodynamic Origin of Photoinstability in the CH<sub>3</sub>NH<sub>3</sub>Pb(I<sub>1–x</sub>Br<sub>x</sub>)<sub>3</sub> Hybrid Halide Perovskite Alloy](http://pubsdc3.acs.org/doi/abs/10.1021/acs.jpclett.6b00226), Journal of Physical Chemistry Letters (**2016**)
