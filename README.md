@@ -19,3 +19,7 @@ The code `gqca2.py` reads the file `energies.dat` and returns the enthalpy of mi
 The script `phase_diagram.py` calls `gqca2.py` and calculates the binodal and spinodal points of the system for a given temperature. The code is made to automatically change the temperature, collect the phase diagram points and write them in the file `phase_diagram.dat`. If it doesn't work, it would be interesting to plot the free energy to understand its variation.
 
 The script `plot_phase_diagram.py` just reads the file phase_diagram.py and draws the phase diagram in a pdf file. 
+
+# Publications
+
+- [Thermodynamic Origin of Photoinstability in the CH<sub>3</sub>NH<sub>3</sub>Pb(I<sub>1–x</sub>Br<sub>x</sub>)<sub>3</sub> Hybrid Halide Perovskite Alloy](http://pubsdc3.acs.org/doi/abs/10.1021/acs.jpclett.6b00226), Journal of Physical Chemistry Letters (**2016**)
